@@ -1,8 +1,18 @@
 # 👩🏻‍💻 Martim Fernandes
 
 
-Sou Martim Fernandes, estudante de Engenharia Informática na Universidade de Trás-os-Montes e Alto Douro. Apaixonado por tecnologia, estou a desenvolver conhecimentos em programação, desenvolvimento de software e sistemas computacionais. 
-Além desta licenciatura frequentei o Colégio de São Gonçalo de Amarante, onde estive no curso de planos próprios Informática Aplicada à Web, onde desenvolvi conhecimentos tais como HTML, CSS, Python, Arduino, Laravel e muito mais.
+Sou Martim Fernandes, estudante de Engenharia Informática na Universidade de Trás-os-Montes e Alto Douro, com uma paixão por tecnologia e inovação. Estou a aprofundar os meus conhecimentos em áreas como programação, desenvolvimento de software e sistemas computacionais.
+
+Antes da licenciatura, estudei no Colégio de São Gonçalo de Amarante, no curso de Planos Próprios em Informática Aplicada à Web. Durante esse período, adquiri experiência prática em tecnologias como HTML, CSS, Python, Arduino, Laravel, entre outras, que ampliaram a minha compreensão de desenvolvimento web e programação.
+
+O meu percurso académico reflete a minha dedicação em aprender e aplicar conhecimentos para criar soluções tecnológicas inovadoras e funcionais.
+
+
+
+
+
+
+
 
 
 
